@@ -1,3 +1,4 @@
+![Abi Header](https://github.com/iAbinayaa/iAbinayaa/assets/124025056/62cbd9e9-a799-4365-aa07-15d1cf0f4b5e)
 <h1 align="center">Hi 👋, I'm Abinayaa</h1>
 <h3 align="center">Aspiring Data Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif">
